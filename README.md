@@ -1,2 +1,2 @@
-Frontend-Coding-Standrads
+Frontend-Coding-Standards
 =========================
