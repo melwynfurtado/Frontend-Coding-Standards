@@ -1,6 +1,6 @@
 #Frontend-Coding-Standards
 
-## Code Standards
+##Code Standards
 * Variables, ID & Class
   * All JavaScript variables shall be written in either completely lowercase letter or camelCase. The one exception to this are Constructor functions, which are capitalized by tradition. All id and class declarations in CSS shall be written in only lowercase. Neither dashes nor underscores shall be used.
 * Layered semantic markup
@@ -61,16 +61,16 @@
 
 ##Performance Standards
 
-###Page requirements
-* Min score of B on homepage and 1 other 'major' page
-* ~400k max page size
+* Page requirements
+ * Min score of B on homepage and 1 other 'major' page
+ * ~400k max page size
 
-###Recommendations
-* Follow Yahoo!'s 34 rules http://developer.yahoo.com/performance/rules.html
-* Follow these best practices: http://developer.yahoo.net/blog/archives/2008/01/the_7_habits_fo.html
-* Sprite images
-* Concat and minify JS & CSS with 
+* Recommendations
+ * Follow Yahoo!'s 34 rules http://developer.yahoo.com/performance/rules.html
+ * Follow these best practices: http://developer.yahoo.net/blog/archives/2008/01/the_7_habits_fo.html
+ * Sprite images
+ * Concat and minify JS & CSS with 
   * YUI Compressor (http://www.julienlecomte.net/blog/2007/08/13/)
   * or Minify (http://code.google.com/p/minify/)
-* Max 3s load time for all pages
-* Use ySlow to see where pages can be improved
+ * Max 3s load time for all pages
+ * Use ySlow to see where pages can be improved
