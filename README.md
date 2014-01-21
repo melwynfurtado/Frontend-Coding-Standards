@@ -61,10 +61,6 @@
 
 ##Performance Standards
 
-* Page requirements
- * Min score of B on homepage and 1 other 'major' page
- * ~400k max page size
-
 * Recommendations
  * Follow Yahoo!'s 34 rules http://developer.yahoo.com/performance/rules.html
  * Follow these best practices: http://developer.yahoo.net/blog/archives/2008/01/the_7_habits_fo.html
