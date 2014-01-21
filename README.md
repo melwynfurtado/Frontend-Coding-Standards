@@ -2,7 +2,7 @@
 
 ##Code Standards
 * Variables, ID & Class
-  * All JavaScript variables shall be written in either completely lowercase letter or camelCase. The one exception to this are Constructor functions, which are capitalized by tradition. All id and class declarations in CSS shall be written in only lowercase. Neither dashes nor underscores shall be used.
+  * All JavaScript variables shall be written in either completely lowercase letter or camelCase. The one exception to this are Constructor functions, which are capitalized by tradition. All id and class declarations in CSS shall be written in only lowercase.
 * Layered semantic markup
   * Semantic class/id names and appropriate HTML tags for content
   * No inline CSS & JS unless absolutely necessary
