@@ -1,6 +1,6 @@
-#Frontend-Coding-Standards
+# Frontend-Coding-Standards
 
-##Code Standards
+## Code Standards
 * Variables, ID & Class
   * All JavaScript variables shall be written in either completely lowercase letter or camelCase. The one exception to this are Constructor functions, which are capitalized by tradition. All id and class declarations in CSS shall be written in only lowercase.
 * Layered semantic markup
@@ -59,7 +59,7 @@
   * Avoid continue Statement
   * Avoid Bitwise Operators if possible
 
-##Performance Standards
+## Performance Standards
 
 * Recommendations
  * Follow Yahoo!'s 34 rules http://developer.yahoo.com/performance/rules.html
